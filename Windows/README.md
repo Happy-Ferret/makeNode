@@ -4,7 +4,7 @@ On the last step, nw.exe and package.7z are concatenated, as to create one packa
 
 ######Requirements: 
 
-*An archiver (preferably 7zip but others should be possible, modifying the syntax of line 9 and replacing the $archiver variable on line 7) in your path.
-*A Powershell session accepting foreign .ps1 scripts.
-*A copy of Node-Webkit on the given path ($nwpath)
-*A package.json inside your original project directory.
+* An archiver (preferably 7zip but others should be possible, modifying the syntax of line 9 and replacing the $archiver variable on line 7) in your path.
+* A Powershell session accepting foreign .ps1 scripts.
+* A copy of Node-Webkit on the given path ($nwpath)
+* A package.json inside your original project directory.
